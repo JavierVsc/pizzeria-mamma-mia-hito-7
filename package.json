@@ -1,0 +1,17 @@
+{
+  "name": "pizzeria-mamma-mia-hito-7",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "bootstrap": "5.0.2",
+    "react": "latest",
+    "react-bootstrap": "next",
+    "react-dom": "latest",
+    "react-router-dom": "^6.30.3",
+    "vite": "latest"
+  }
+}
